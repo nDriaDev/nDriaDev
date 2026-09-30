@@ -160,15 +160,14 @@ Full-stack URL shortening application with authentication, REST APIs, email veri
 ---
 
 ## GitHub Metrics
-
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nDriaDev&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nDriaDev&theme=github_dark&animation=rise&name=Profile+Details"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nDriaDev&theme=github"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nDriaDev&theme=github&animation=rise&name=Profile+Details"
       alt="GitHub profile details"
     />
   </picture>
@@ -178,10 +177,10 @@ Full-stack URL shortening application with authentication, REST APIs, email veri
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nDriaDev&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nDriaDev&theme=github_dark&animation=rise"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nDriaDev&theme=github"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nDriaDev&theme=github&animation=rise"
       alt="GitHub statistics"
     />
   </picture>
@@ -189,10 +188,10 @@ Full-stack URL shortening application with authentication, REST APIs, email veri
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nDriaDev&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nDriaDev&theme=github_dark&animation=rise"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nDriaDev&theme=github"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nDriaDev&theme=github&animation=rise"
       alt="Top repository languages"
     />
   </picture>
@@ -202,10 +201,10 @@ Full-stack URL shortening application with authentication, REST APIs, email veri
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=nDriaDev&theme=github-dark-blue&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=nDriaDev&theme=github-dark-blue&hide_border=true&animation=rise"
     />
     <img
-      src="https://streak-stats.demolab.com/?user=nDriaDev&theme=default&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=nDriaDev&theme=default&hide_border=true&animation=rise"
       alt="GitHub contribution streak"
     />
   </picture>

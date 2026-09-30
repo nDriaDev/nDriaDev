@@ -56,8 +56,8 @@ Working on enterprise web applications across frontend architecture, full-stack 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,jest,vitest&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,jest,vitest&theme=light&perline=8" alt="Frontend technologies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2cts%2cjs%2chtml%2ccss%2cvite%2cjest%2cvitest&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react%2cts%2cjs%2chtml%2ccss%2cvite%2cjest%2cvitest&theme=light&perline=8" alt="Frontend technologies" />
   </picture>
 </p>
 
@@ -65,8 +65,8 @@ Working on enterprise web applications across frontend architecture, full-stack 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=light&perline=8" alt="Backend technologies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2cspring%2cnodejs%2cexpress&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java%2cspring%2cnodejs%2cexpress&theme=light&perline=8" alt="Backend technologies" />
   </picture>
 </p>
 
@@ -74,8 +74,8 @@ Working on enterprise web applications across frontend architecture, full-stack 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=light&perline=8" alt="Database technologies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2cpostgres&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mongodb%2cpostgres&theme=light&perline=8" alt="Database technologies" />
   </picture>
 </p>
 
@@ -88,8 +88,8 @@ Working on enterprise web applications across frontend architecture, full-stack 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,docker,openshift,git&theme=dark&perline=8" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,openshift,git&theme=light&perline=8" alt="DevOps and tooling" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2cdocker%2copenshift%2cgit&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=azure%2cdocker%2copenshift%2cgit&theme=light&perline=8" alt="DevOps and tooling" />
   </picture>
 </p>
 
